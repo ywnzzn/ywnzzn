@@ -18,5 +18,3 @@ jobs:
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "True"
-          
-          
