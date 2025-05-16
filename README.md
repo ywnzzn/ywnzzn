@@ -1,5 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning...
 <!--START_SECTION:waka-->
+- 🌱 I’m currently learning...
+
 <!--END_SECTION:waka-->
