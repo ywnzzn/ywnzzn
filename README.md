@@ -4,6 +4,8 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
 Python                   12 mins             █████████████████████████   100.00 % 
 
@@ -24,5 +26,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 17/05/2025 11:55:21 UTC
+ Last Updated on 17/05/2025 11:56:57 UTC
 <!--END_SECTION:waka-->
