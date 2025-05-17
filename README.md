@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -28,5 +26,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 17/05/2025 02:50:56 UTC
+ Last Updated on 17/05/2025 02:54:04 UTC
 <!--END_SECTION:waka-->
