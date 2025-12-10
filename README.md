@@ -18,13 +18,13 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   37 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -37,5 +37,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 09/12/2025 02:07:34 UTC
+ Last Updated on 10/12/2025 02:09:25 UTC
 <!--END_SECTION:waka-->
